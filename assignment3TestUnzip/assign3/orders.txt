@@ -1,0 +1,9 @@
+8
+1 Latte M 2
+2 Flat_White L 4
+3 Mocha M 3
+4 Latte S 5
+5 Mocha S 1
+6 Black_Coffee L 2
+7 Mocha M 2
+8 Americano M 3
